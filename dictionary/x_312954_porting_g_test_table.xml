@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Table" max_length="40" name="x_312954_porting_g_test_table" type="collection">
+        <element label="a" max_length="40" name="a" type="string"/>
+    </element>
+</database>
