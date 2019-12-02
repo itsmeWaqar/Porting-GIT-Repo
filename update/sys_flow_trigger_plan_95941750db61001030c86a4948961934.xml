@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>ee839bd8db21001030c86a49489619a9</plan_id>
+        <snapshot>0d94d350db61001030c86a49489619cd</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 10:39:54</sys_created_on>
+        <sys_id>95941750db61001030c86a4948961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d5941750db61001030c86a4948961919</sys_name>
+        <sys_package display_value="Porting GIT App" source="x_312954_porting_g">240fcb14db21001030c86a494896196c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Porting GIT App">240fcb14db21001030c86a494896196c</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_95941750db61001030c86a4948961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 10:39:54</sys_updated_on>
+        <trigger display_value="">d5941750db61001030c86a4948961919</trigger>
+    </sys_flow_trigger_plan>
+</record_update>
