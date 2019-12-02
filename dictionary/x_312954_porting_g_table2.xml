@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table2" max_length="40" name="x_312954_porting_g_table2" type="collection">
+        <element label="colu" max_length="40" name="colu" type="string"/>
+    </element>
+</database>
